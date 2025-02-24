@@ -1,0 +1,13 @@
+H1 {color: rgb(229, 115, 138);
+font:bold;
+font-size:xx-large;}
+H1 { border: 6px solid black;
+    padding: 15px;
+    text-align: center;
+background-color: blanchedalmond;}
+Footer {
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+}
+H4 {text-align: center;}

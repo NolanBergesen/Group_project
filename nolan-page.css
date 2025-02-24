@@ -1,0 +1,42 @@
+H1 {border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+background-color: blanchedalmond;}
+H1 {color: rgb(32, 32, 98);}
+img {
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+    max-width: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+H2{text-align: center;
+font: bold;
+color: rgb(32, 32, 98);
+font-size: xx-large;}
+p {font-size: large;
+font-weight: 100}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1.25em;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+marquee {
+    font-size: 2em;
+    margin-top: 20px;
+}
+p {
+    font-size: 1.25em;
+    margin: 20px 0;
+}
